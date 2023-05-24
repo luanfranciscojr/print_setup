@@ -83,7 +83,7 @@ DATABASES = {
         'OPTIONS': {
                 'options': '-c search_path=public'
             },
-        'PASSWORD': 'root',
+        'PASSWORD': 'lfemleb@321',
         'HOST': 'localhost',
         'PORT': '5432',
 
